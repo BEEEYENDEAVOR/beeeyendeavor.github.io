@@ -1,1 +1,3 @@
 # beeeyendeavor.github.io
+
+Essentially GitHub Page content is written in markdown... Then quit...
